@@ -1,0 +1,23 @@
+div, h1, h2, h3, h4, h5, h6, p, form, ul, ol, li, table {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    color: inherit;
+  }
+  &:visited {
+    color: inherit;
+  }
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+body {
+  background: white;
+  color: black;
+}
