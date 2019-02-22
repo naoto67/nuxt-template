@@ -85,3 +85,5 @@ sw.*
 
 # vim swp file
 *.swp
+
+./package-lock.json
